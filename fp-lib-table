@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name teensy)(type KiCad)(uri /Users/raffi/Documents/Projects_Electronix/seismic_industries/008b_KICAD/001_libraries/teensy.pretty)(options "")(descr ""))
+  (lib (name Housings_SSOP)(type KiCad)(uri "$(KISYSMOD)Housings_SSOP.pretty")(options "")(descr ""))
+)
